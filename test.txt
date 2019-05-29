@@ -1,1 +1,5 @@
-Another modified file
+LINE 1 in master before branching
+LINE 2 in master before branching
+LINE 3 in master before branching
+LINE 4 in master before branching
+LINE 5 in master before branching
