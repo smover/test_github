@@ -1,5 +1,5 @@
 LINE 1 in master before branching
 LINE 2 in master before branching
 LINE 3 in master before branching
-LINE 4 in master before branching
+LINE 4 in master after branching --- THIS LINE SHOULD BE IN THE MERGED STUFF
 LINE 5 in master before branching
